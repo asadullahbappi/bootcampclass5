@@ -5,7 +5,7 @@ function Child() {
 
 	return (
 		<div>
-			<h1>This is child</h1>
+			<h1>This is first child</h1>
 			<h4>Counter Value is : {counterValue[0]}</h4>
 			<button
 				onClick={() => {
